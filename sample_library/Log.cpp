@@ -5,7 +5,7 @@ void Log(const char *message)
     std::cout << message << std::endl;
 }
 
-int main()
+int main2()
 {
-    1;
+    return 1;
 }

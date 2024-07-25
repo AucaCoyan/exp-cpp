@@ -1,5 +1,5 @@
 #include <iostream>
-#include <Log>
+#include "Log.cpp"
 
 void Log(const char *message);
 
